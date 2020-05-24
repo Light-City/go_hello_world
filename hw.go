@@ -8,3 +8,6 @@ import (
 func GetHello() {
   fmt.Println("Hello_go")
 }
+
+func main() {
+}
